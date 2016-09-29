@@ -1,0 +1,14 @@
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   "Simulator Screen Shot 2016\345\271\2649\346\234\21019\346\227\245 \344\270\212\345\215\21011.39.02.png"
+	new file:   "Simulator Screen Shot 2016\345\271\2649\346\234\21019\346\227\245 \344\270\213\345\215\21012.32.37.png"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+
